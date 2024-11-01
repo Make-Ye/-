@@ -14,8 +14,6 @@
 加分项：学校、QQ
 ```
 
-[龍&归鹤社工BOT](https://t.me/WSQingBOT?start=7193421495)暂时掉了
-
 [007机器人](https://t.me/sgk007_bot?start=NzE5MzQyMTQ5NQ)
 
 ```
@@ -43,8 +41,6 @@
 数据：★
 加分项：数据少
 ```
-
-[Master](https://t.me/BaKaMasterBot?start=FM5woZ3bvu)暂时掉了
 
 [深网-社工库机器人](https://t.me/DeepWebSGK_bot?start=zPXiuMYOCEtP)
 
@@ -93,12 +89,6 @@
 数据：★
 加分项：微博、QQ
 ```
-
-[知乎社工库机器人](https://t.me/zhihu_bot?start=ZHIHU_FIRONIBO) 一直不出数据
-
-[屁屁侦探社工库机器人]()暂时掉了
-
-[警务社工库BOT]()暂时掉了
 
 [纵横派](https://t.me/LHSFBQ_bot?start=7193421495)
 
@@ -181,14 +171,12 @@
 加分项：QQ、银行卡、学校
 ```
 
-[情报局社工库](https://t.me/qbjSGKzhuquebot?start=NzE5MzQyMTQ5NQ==)
+[情报局社工库](https://t.me/qbjSGKzhuquebot?start=NzE5MzQyMTQ5NQ==) （数据和代码和天网社工库相似）
 
 ```
 数据：最强社工库没有之一，它的数据是我见过的社工库里最全的
 加分项：QQ、微博、银行卡、学校、地址、密码
 ```
-
-[无名社工机器人](https://t.me/wmsgk_bot?start=EgteCPMS6z) 一直不出数据（也就是和知乎社工库机器人一样的问题）
 
 [天网社工库](https://t.me/tianwangchadangTop1_bot?start=NzE5MzQyMTQ5NQ==) （后期数据和代码和情报局相似，疑似从局长那里购买了数据和代码）
 
@@ -196,13 +184,13 @@
 加分项：QQ、微博、银行卡、学校、地址、密码
 ```
 
-[Carllnet](https://t.me/Carllnet2_bot?start=7193421495)
+[Carllnet](https://t.me/Carllnet2_bot?start=7193421495)（和下面的Carllbot是一家，数据和代码相同）
 
 ```
 加分项：QQ、微博、银行卡、学校、地址
 ```
 
-[Carllbot](https://t.me/Carllnet_bot?start=7193421495) （和上面的Carllbot是一家，数据和代码相同）
+[Carllbot](https://t.me/Carllnet_bot?start=7193421495) （和上面的Carllnet是一家，数据和代码相同）
 
 ```
 加分项：QQ、微博、银行卡、学校、地址
@@ -257,12 +245,6 @@
 加分项：QQ
 ```
 
-[综合数据社工库](https://t.me/oldZHSGKbot?start=7193421495) （日月社工库机器人、天穹数据系统一样）
-
-```
-加分项：QQ、银行卡、学校
-```
-
 [Anonymous补齐机器人](https://t.me/Anonybuqi_bot?start=cWaBQYWtmF)
 
 ```
@@ -288,17 +270,23 @@
 加分项：QQ、银行卡、学校
 ```
 
-[liemo](https://t.me/hh_liemo_bot?start=7193421495) 
+[综合数据社工库](https://t.me/oldZHSGKbot?start=7193421495) （日月社工库机器人、天穹数据系统一样）
 
 ```
-数据：★★★
-减分项：只能查到三要素
+加分项：QQ、银行卡、学校
 ```
 
 [天穹数据系统](https://t.me/TIANQIONGSHUJUBOT?start=7193421495) （数据和综合数据社工库、日月社工库机器人一样）
 
 ```
 加分项：QQ、银行卡、学校
+```
+
+[liemo](https://t.me/hh_liemo_bot?start=7193421495) 
+
+```
+数据：★★★
+减分项：只能查到三要素
 ```
 
 [摩乐乐机器人-社工好帮手](https://t.me/MoLeLeBot?start=cm2shpdhl47tn89nc6cmj4xpq) 
@@ -365,3 +353,14 @@
 加分项：QQ、银行卡、地址、微博
 ```
 
+[无名社工机器人](https://t.me/wmsgk_bot?start=EgteCPMS6z) 一直不出数据（也就是和知乎社工库机器人一样的问题）
+
+[知乎社工库机器人](https://t.me/zhihu_bot?start=ZHIHU_FIRONIBO) 一直不出数据
+
+[龍&归鹤社工BOT](https://t.me/WSQingBOT?start=7193421495)暂时掉了
+
+[Master](https://t.me/BaKaMasterBot?start=FM5woZ3bvu)暂时掉了
+
+[屁屁侦探社工库机器人]()暂时掉了
+
+[警务社工库BOT]()暂时掉了
